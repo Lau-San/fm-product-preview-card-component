@@ -128,7 +128,7 @@ img {
 	display: inline-block;
 }
 
-@media (min-width: 768px  ) {
+@media (min-width: 560px  ) {
 	.product-card {
 		flex-direction: row;
 		width: 40rem;
