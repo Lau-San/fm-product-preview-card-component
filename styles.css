@@ -127,9 +127,9 @@ img {
 
 	.product-card {
 		display: grid;
-		grid-template-columns: 50% auto;
+		grid-template-columns: auto 50%;
 		grid-template-rows: auto;
-		width: 60%;
+		width: 42%;
 	}
 
 	.product-img-mobile {
@@ -170,7 +170,7 @@ img {
 
 }
 
-@media (min-width: 1280px) {
+/* @media (min-width: 1280px) {
 
 	.product-card {
 		width: 50%;
@@ -182,4 +182,4 @@ img {
 	.product-card {
 		width: 42%;
 	}
-}
+} */
