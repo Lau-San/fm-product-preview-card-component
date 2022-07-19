@@ -23,7 +23,7 @@ img {
 }
 
 .wrapper {
-	height: 100vh;
+	min-height: 100vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -129,7 +129,7 @@ img {
 		display: grid;
 		grid-template-columns: auto 50%;
 		grid-template-rows: auto;
-		width: 42%;
+		width: 40rem;
 	}
 
 	.product-img-mobile {
