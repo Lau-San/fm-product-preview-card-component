@@ -110,6 +110,10 @@ img {
 	align-items: center;
 }
 
+.add-btn:hover {
+	background-color: hsl(158, 36%, 27%);
+}
+
 .cart-icon {
 	margin: .2rem .6rem .2rem 0;
 	display: inline-block;
